@@ -1,3 +1,4 @@
+
 # Collaborative Document
 
 ## Contributors
@@ -7,4 +8,5 @@
 
 ## Fun Facts about Git
 - Git was created by Linus Torvalds in 2005.
+
 
